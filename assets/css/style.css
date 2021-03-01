@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*This section refers to the header which has multiple fonts, colours and also contains the pages navigation links*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +42,7 @@ body {
     margin-left: 25px;
 }
 
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+ /*This refers to the sizing of the main image without captions*/
 .hero {
     height: 800px;
     width: 100%;
@@ -57,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+ /*This refers to the main section and refers to text font, image positioning and sizing*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -128,6 +130,7 @@ p {
     font-size: 36px;
 }
 
+/**/
 .benefits {
     margin-right: 20px;
     padding: 20px;
