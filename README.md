@@ -25,9 +25,8 @@ CSS
 11. Moved up the Main section css to before the aside section; 12 so it corresponds with the HTML code. 12. As per 6 above, removed the repetitive css classes and replaced with services class; 13. Followed the same process as per 11 and replaced all the aside classes with the benefits-aside class. 14. Removed references to old css classes and replaced with new class names.
 
 Please note screen shots of working website:
-Image 1 to show URL: Homework-Week-1/assets/images/H:W Image 1.png
+Image 1 to show URL: ![hwimage1](./assets/images/hwimage1.png)
 
-Image 2 to show full screen: Homework-Week-1/assets/images/H:W Image 2.png
+Image 2 to show full screen: ![hwimage2](./assets/images/hwimage2.png)
 
-Image
-Links: https://bkay1.github.io/Homework-Week-1/
+Link to deployed webpage: https://bkay1.github.io/Homework-Week-1/
