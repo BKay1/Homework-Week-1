@@ -33,3 +33,4 @@ Image 1 to show URL: ![hwimage1](./assets/images/hwimage1.png)
 Image 2 to show full screen: ![hwimage2](./assets/images/hwimage2.png)
 
 Link to deployed webpage: https://bkay1.github.io/Homework-Week-1/
+Link to git repo: https://github.com/BKay1/Homework-Week-1
